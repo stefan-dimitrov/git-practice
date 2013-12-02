@@ -5,3 +5,5 @@ File number 3.
 4
 first change at branch2
 second change at branch2
+
+starting a branch for testing out merge conflicts
