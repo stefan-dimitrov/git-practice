@@ -14,6 +14,8 @@ Verdict: the merging was not done properly
 one more commit to distance ourselves from the last situation
 
 point of new rebase-with-conflicts experiment
+starting the experiment
+
 developing on master
 dev work on master // yet again
 last dev work on master
