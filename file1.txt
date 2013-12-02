@@ -10,3 +10,4 @@ starting a branch that will be rebased,
 and it should have conflicts
     some work on branch-conflicts2;
     some more work on the branch;
+Verdict: the merging was not done properly
