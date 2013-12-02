@@ -8,3 +8,4 @@ some feature for a pull request
 
 starting a branch that will be rebased,
 and it should have conflicts
+    some work on branch-conflicts2;
