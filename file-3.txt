@@ -6,9 +6,5 @@ File number 3.
 first change at branch2
 second change at branch2
 
-starting a branch for testing out merge conflicts
-    doing some work;
-    doing some more work; // that's after the regular branch merge(with conflicts)
-    
-some changes on the master branch,
-making it diverge.
+starting a bran
+Stanislav
