@@ -6,5 +6,5 @@ some more changes for the rebase test branch
 makerdrone has just forked
 some feature for a pull request
 
-diverging the master branch:
-    doing work on master;
+starting a branch that will be rebased,
+and it should have conflicts
