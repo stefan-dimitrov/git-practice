@@ -17,6 +17,7 @@ point of new rebase-with-conflicts experiment
 starting the experiment
     working on it
     more work
+    some more work
 
 developing on master
 dev work on master // yet again
