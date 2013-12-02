@@ -6,5 +6,8 @@ File number 3.
 first change at branch2
 second change at branch2
 
+starting a branch for testing out merge conflicts
+    doing some work;
+    
 some changes on the master branch,
 making it diverge.
