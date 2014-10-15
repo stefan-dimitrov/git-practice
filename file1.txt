@@ -22,3 +22,4 @@ starting the experiment
 developing on master
 dev work on master // yet again
 last dev work on master
+switch to ssh
